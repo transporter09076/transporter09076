@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi there 👋, Shayaan here 
 
-<!--
-**transporter09076/transporter09076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**transporter09076/transporter09076** is a ✨ student in new delhi.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
